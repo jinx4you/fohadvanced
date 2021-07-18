@@ -1,0 +1,437 @@
+body{
+  font-family: "Montserrat";
+
+
+}
+
+#title{
+
+  color:black;
+
+}
+
+
+
+.container-fluid{
+  padding:2% 4%;
+
+
+}
+
+h1{
+  padding-top:10%;
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 2;
+
+
+}
+
+h2{
+  padding-top:55%;
+  font-family: "Montserrat";
+  font-size: 2.1rem;
+  line-height: 1.5;
+  color:white;
+}
+.h2-title{
+  font-family: "Ubuntu";
+  padding-right: 10%;
+
+}
+
+
+
+.navbar-custom {
+    background-color: #070607;
+}
+
+
+
+/* Navigation bar*/
+.navbar {
+padding:0 0 2.5rem;
+text-align: right;
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size:3.5rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding:0 15px;
+
+  font-size: 1rem;
+}
+
+.nav-link{
+  font-size: 1.4rem;
+  font-family: "Montserrat:wght@300";
+}
+
+/* download buttons */
+
+
+
+/* title image */
+
+
+
+/* features */
+
+
+h3{
+  font-family: "Montserrat";
+
+}
+
+
+
+/* About us */
+
+.poker-img-1{
+  width:20%;
+  float: left;
+  margin-right: 20px;
+  height:60%;
+  border-radius: 100%;
+}
+
+.poker-img-2{
+  width:20%;
+  float: right;
+  margin-left: 20px;
+height:100%;
+top:3000px;
+border-radius: 100%;
+
+
+}
+
+#title-aboutus{
+
+  color:black;
+
+}
+.red{
+  color:red;
+}
+.green{
+  color:#cccccc;
+}
+.cards-red{
+  color:red;
+font-size: 2rem;
+text-align: center;
+}
+
+
+hr{
+  border:dotted #d3d3d3 6px;
+  border-bottom: none;
+
+
+}
+
+.h3-about-us{
+  font-size: 2.5rem;
+  font-family: "Ubuntu:wght@900";
+    text-align: center;
+}
+
+  .about-body{
+    font-family: "Montserrat:wght@300";
+    line-height: 1.5;
+    font-size: 1.5rem;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  .about-foot{
+    height:300px;
+  }
+  .about-f{
+    position: relative;
+  top:25%;
+  right:20%;
+
+    height: 25%;
+    width:750px;
+  }
+
+  .about-f2{
+    position: relative;
+  top:0;
+left:20%;
+
+    height: 25%;
+    width:100%;
+  }
+  .about-f3{
+    position: relative;
+  top:-235%;
+  right:10%;
+
+    height: 63%;
+    width:19%;
+  }
+  .about-f4{
+    position: relative;
+  top:-89%;
+  left:72%;
+
+    height: 63%;
+    width:19%;
+  }
+  .intro{
+  padding-right: 5%;
+
+  }
+  .extro{
+
+    padding-left:10%;
+  }
+
+  .extro2{
+
+    padding-top: 1%;
+  }
+/* crew */
+
+
+.feature-box{
+  text-align: center;
+  padding: .5%;
+  font-size: 1.5rem;
+  font-family: "Ubuntu:wght@300";
+
+}
+.h3-crew{
+  font-family: "Ubuntu:wght@900";
+  font-size: 1.5rem;
+
+}
+.h3-meet-crew{
+  font-size: 2.5rem;
+  font-family: "Ubuntu:wght@900";
+  text-align: center;
+  line-height: 1.5;
+}
+.crew-pic{
+  width:40%;
+border-radius: 100%;
+}
+
+.fb{
+  color: #1e90ff;
+}
+.tw{
+  color:#00bfff;
+}
+.fb:hover{
+  color: #ff4c68;
+}
+.rule-link{
+  color: black;
+}
+
+.pay-link{
+  border-radius: 100%;
+  color:#1e90ff;
+  width:200%;
+
+
+}
+
+
+
+
+.fb-link{
+  color:#1e90ff;
+}
+.email-link{
+  color:white;
+}
+.tw:hover{
+  color:#ff4c68;
+}
+.hr-crew{
+  border:dotted #d3d3d3 6px;
+  border-bottom: none;
+width:30%
+}
+.p-crew{
+  font-size: 1.2rem;
+  color: gray;
+}
+.download-button{
+  margin-top:5%;
+  margin-bottom:2%;
+  font-family: "Montserrat:wght@700";
+}
+
+
+/* rules */
+
+.h3-rules{
+  padding-top: 2%;
+  font-size: 2.5rem;
+  font-family: "Ubuntu:wght@700";
+    text-align: center;
+}
+
+  .rules-body{
+    font-family: "Montserrat:wght@300";
+    line-height: 1.5;
+    font-size: 1.4rem;
+    padding-left: 15%;
+    padding-right: 15%;
+
+  }
+  .p2{
+    padding-left:8%;
+  }
+  .p3{
+    padding-left:6%;
+  }
+
+  .ol{
+
+  }
+  .rules-img-1{
+    width:20%;
+    float: left;
+    margin-right: 5%;
+    margin-bottom:4%;
+    height:19%;
+
+  }
+
+
+  .rules-img-2{
+    width:19%;
+    float:right ;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  height:50%;
+
+
+  }
+
+/* Testimonials */
+
+#testimonials {
+  text-align: center;
+  background-color: white;
+  color:black;
+  margin-top:1%;
+
+}
+
+.about-body1{
+  font-family: "Montserrat:wght@300";
+  line-height: 1;
+  font-size: 1.4rem;
+
+
+}
+.h3-test{
+  margin: 3%;
+  font-family: "Ubuntu";
+  font-size: 2rem;
+text-align: center;
+}
+.h4-test{
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  line-height: 1.5;
+
+}
+
+.testimonial-carousel{
+
+}
+
+/* h2 {
+  font-family: "Montserrat";
+  fon-size:3rem;
+  line-height: 1.5;
+  color: black;
+} */
+
+.testimonial-img{
+  border-radius: 100%;
+  margin:0 10px 10px;
+  height:50%;
+}
+
+.carousel-item{
+    padding:1% 10%;
+        height:350px;
+background-color:  #00b3b3;
+}
+
+.about-img-1{
+
+  margin-left: 57%;
+  border-radius: 100%;
+
+  width:55%;
+height: 180px;
+
+
+}
+
+.about-img-2{
+  margin-right: 77%;
+
+  width: 55%;
+  border-radius: 100%;
+
+}
+
+
+
+/* games */
+
+.center-align{
+  text-align: center;
+}
+
+.fnt-hd{
+  font-size: 1.4rem;
+}
+
+.btn-bdy{
+  font-size: 1.2rem;
+}
+
+.game-img-1{
+
+  margin-left: 27%;
+}
+
+.game-img-2{
+  margin:3%;
+  width: 65%;
+
+}
+
+.hr-games{
+  border:dotted #d3d3d3 6px;
+  border-bottom: none;
+width:35%
+}
+.h3-games{
+  padding-top: 8%;
+  font-size: 2.5rem;
+  font-family: "Ubuntu:wght@700";
+    text-align: center;
+}
+
+.hr-games2{
+  border:dotted #d3d3d3 6px;
+  border-bottom: none;
+margin-top: 3%;
+width:10%
+}
