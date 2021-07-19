@@ -221,6 +221,10 @@ left:20%;
   width:40%;
 border-radius: 100%;
 }
+.karen-pic{
+  width:40%;
+border-radius: 100%;
+}
 
 .fb{
   color: #1e90ff;
@@ -407,14 +411,14 @@ height: 180px;
 }
 
 .game-img-1{
-
-  margin-left: 27%;
+width:50%;
+  margin-left: 30%;
 }
 
 .game-img-2{
-  margin:3%;
-  width: 65%;
-
+margin-top:3%;
+  width: 40%;
+margin-left: 25%;
 }
 
 .hr-games{
@@ -434,4 +438,19 @@ width:35%
   border-bottom: none;
 margin-top: 3%;
 width:10%
+}
+
+/* karen */
+#karen-about{
+  background-color: #ffe6e6;
+}
+
+.karen-box{
+  text-align: center;
+  padding: .5%;
+  font-size:2rem;
+  font-family: "Ubuntu:wght@700";
+  margin:0 33%;
+  line-height: 1.5rem;
+background-color:
 }
